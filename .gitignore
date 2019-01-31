@@ -13,6 +13,3 @@
 
 # All hidden files
 .*
-
-# Vim swap files
-*.swp
